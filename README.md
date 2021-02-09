@@ -1,8 +1,4 @@
-<! DOCTYPE html >
-<html>
-<head >
- <title > Challenge 1 - About Me </title >
-</ head >
+
 
 <body >
 <header > 
@@ -20,6 +16,3 @@
 <p > This website is for a challenge for my Web Technologies class, in the coming weeks I will be using CSS and maybe JavaScript to edit and change the site. </p >
 </main > 
 </ body >
-
-
-</ html >
